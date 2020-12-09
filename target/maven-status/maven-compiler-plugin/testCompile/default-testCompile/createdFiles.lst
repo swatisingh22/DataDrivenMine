@@ -1,0 +1,9 @@
+com\sampleProject\utilities\TestUtil.class
+com\sampleProject\utilities\ExcelReader.class
+com\sampleProject\base\TestBase.class
+com\sampleProject\rough\TestProperties.class
+com\sampleProject\testcases\AddCustomerTest.class
+com\sampleProject\listners\CustomListeners.class
+com\sampleProject\testcases\OpenAccountTest.class
+com\sampleProject\utilities\ExtentManager.class
+com\sampleProject\testcases\BankManagerLoginTest.class
